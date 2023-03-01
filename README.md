@@ -1,2 +1,3 @@
 # repldb
- Access ReplDB databases with the modern NPM Github packge
+
+Access ReplDB databases with this modern NPM Github package

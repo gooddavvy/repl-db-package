@@ -1,0 +1,19 @@
+{
+  "name": "repl-db",
+  "version": "^1.0.0",
+  "description": "Access ReplDB databases with this modern NPM Github package",
+  "main": "index.js",
+  "type": "module",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "author": "David Akins",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/typescript": "^2.0.0",
+    "axios": "^1.3.4",
+    "typescript": "^4.9.5"
+  }
+}
